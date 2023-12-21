@@ -49,7 +49,10 @@ print(solution)
 ```
 
 ## Output1:
+![Screenshot 2023-12-21 210023](https://github.com/GANESH23012861/LU-Decomposition/assets/147139861/fc8e978d-1636-4c00-8f48-bfff5587b88f)
+
 ## Output2:
+![Screenshot 2023-12-21 210043](https://github.com/GANESH23012861/LU-Decomposition/assets/147139861/15ad45b7-cd9b-47dd-9d6c-5db3a566910a)
 
 
 ## Result:
